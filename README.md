@@ -17,12 +17,13 @@ Services: Google YouTube Data API v3
 **Steps:**
 
 1) Clone the repository and navigate inside it.
-2) Run the following commands.
+2) Get API-key for Youtube Data API from Google developers console and update it in 'src/index.js'.
+3) Run the following commands.
 ```
 > npm install
 > npm start
 ```
-3) Open http://localhost:8080 in the browser.
+4) Open http://localhost:8080 in the browser.
 
 -----------------------------
 
