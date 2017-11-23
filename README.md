@@ -1,25 +1,43 @@
-# ReduxSimpleStarter
+## Youtube Video Player
+*built with React*
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+ 
+**Brief:** This is a full-stack project to send out surveys to people and record their responses.
 
-### Getting Started
+-----------------------------
 
-There are two methods for getting started with this repo.
+**Technologies:**
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Frontend: React
 
+Services: Google YouTube Data API v3
+
+-----------------------------
+
+**Steps:**
+
+1) Clone the repository and navigate inside it.
+2) Run the following commands.
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
 > npm install
 > npm start
 ```
+3) Open http://localhost:8080 in the browser.
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+-----------------------------
 
-```
-> npm install
-> npm start
-```
+**Usage:**
+
+This project allows you to send email to your friends asking them a binary question. You can tweak this project to your needs. Feel free to tweak it and create your own working application.
+
+-----------------------------
+
+**Author**
+
+Anuj Gupta (anuj3918@gmail.com) with help from a project by [Stephen Grider](https://github.com/StephenGrider/ReactStarter/))
+
+-----------------------------
+
+**License**
+
+This project is licensed under the ISC license.
