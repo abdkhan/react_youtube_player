@@ -2,7 +2,7 @@
 *built with React*
 
  
-**Brief:** This is a full-stack project to send out surveys to people and record their responses.
+**Brief:** This is a frontend project built on React. It can let a user search for videos on youtube and play them in the browser.
 
 -----------------------------
 
@@ -34,7 +34,7 @@ This project allows you to send email to your friends asking them a binary quest
 
 **Author**
 
-Anuj Gupta (anuj3918@gmail.com) with help from a project by [Stephen Grider](https://github.com/StephenGrider/ReactStarter/))
+Anuj Gupta (anuj3918@gmail.com) with help from a project by [Stephen Grider](https://github.com/StephenGrider/ReactStarter/)
 
 -----------------------------
 
